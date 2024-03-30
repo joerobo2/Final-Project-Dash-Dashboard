@@ -4,7 +4,7 @@ Disclaimer:
   This project is pedagogical in nature to apply the skills I learned in the IBM Data Analyst course.
 
 Business Task:
-  Provide historical Airline metrics for business stakeholders broken down by year.  
+  Provide historical Airline metrics for business stakeholders to display average sales breakdowns in and out of recession. Additionally, drill down the same statstics by year.
 
 Goal:
   Create a Dashboard using an IDE with Python and the Plotly package. 
